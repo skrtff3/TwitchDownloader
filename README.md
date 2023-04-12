@@ -6,7 +6,7 @@
 
 #
 
-### WebStore ratings.
+### WebStore ratings:
 
 - Mozzila: ![Mozilla Add-on](https://img.shields.io/amo/rating/5315315)
 - Chrome: ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/5315315)
