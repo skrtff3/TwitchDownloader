@@ -1,3 +1,39 @@
 ### Twitch VODs Downloader extension
 
-### ![GitHub top language](https://img.shields.io/github/languages/top/fxhxyz4/twitchdownloader) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/fxhxyz4/twitchdownloader) ![GitHub issues](https://img.shields.io/github/issues/fxhxyz4/twitchdownloader) ![GitHub](https://img.shields.io/github/license/fxhxyz4/twitchdownloader) ![GitHub watchers](https://img.shields.io/github/watchers/fxhxyz4/twitchdownloader?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/fxhxyz4/twitchdownloader?style=social) ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffxhxyz4.github.io%2FTwitchDownloader) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/fxhxyz4/Twitchdownloader)
+### ![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/fxhxyz4/twitchdownloader) ![GitHub](https://img.shields.io/github/license/fxhxyz4/twitchdownloader) ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffxhxyz4.github.io%2FTwitchDownloader) ![GitHub issues](https://img.shields.io/github/issues/fxhxyz4/twitchdownloader) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/fxhxyz4/Twitchdownloader)
+
+#
+
+### WebStore ratings
+
+### ![Mozilla Add-on](https://img.shields.io/amo/rating/5315315) ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/5315315)
+
+#
+
+### [Changelog](./CHANGELOG.md)
+
+#
+
+### development
+
+```
+$ yarn dev
+```
+
+#
+
+### production
+
+```
+$ yarn build
+```
+
+#
+
+### deploy readme file
+
+```
+$ yarn deploy
+```
+
+#
