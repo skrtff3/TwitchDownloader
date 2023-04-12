@@ -33,7 +33,7 @@ function images() {
 }
 
 function otherFiles() {
-  return src(['./src/manifest.json']).pipe(dest('build'));
+  return src(['./manifest.json']).pipe(dest('build'));
 }
 
 function cleanDist() {

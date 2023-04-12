@@ -1,1 +1,3 @@
-#
+### Twitch VODs Downloader extension
+
+### ![GitHub top language](https://img.shields.io/github/languages/top/fxhxyz4/twitchdownloader) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/fxhxyz4/twitchdownloader) ![GitHub issues](https://img.shields.io/github/issues/fxhxyz4/twitchdownloader) ![GitHub](https://img.shields.io/github/license/fxhxyz4/twitchdownloader) ![GitHub watchers](https://img.shields.io/github/watchers/fxhxyz4/twitchdownloader?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/fxhxyz4/twitchdownloader?style=social) ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffxhxyz4.github.io%2FTwitchDownloader) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/fxhxyz4/Twitchdownloader)
