@@ -29,8 +29,9 @@
   ],
   "license": "MIT",
   "scripts": {
-    "webpack:watch": "webpack -c ./webpack.config.js -w",
-    "webpack:prod": "webpack -c ./webpack.config.js"
+    "dev": "gulp",
+    "build": "gulp && gulp build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {},
   "devDependencies": {
