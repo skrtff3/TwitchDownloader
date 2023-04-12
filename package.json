@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Download twitch-vods",
   "keywords": [
-    "webpack",
+    "gulp",
     "twitch",
     "twitch-download",
     "twitch-vods"
