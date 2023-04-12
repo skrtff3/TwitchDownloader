@@ -1,0 +1,28 @@
+{
+	"name": "Twitch Downloader",
+	"description": "Download twitch VODs & Clips",
+	"version": "1.0.0",
+	"author": "fxhxyz",
+	"homepage_url": "https://github.com/fxhxyz/twitchdownloader",
+	"manifest_version": 3,
+	"background": {
+		"service_worker": "background.js"
+	},
+	"action": {
+		"default_icon": {
+			"16": "img/icon.png",
+			"32": "img/icon.png",
+			"48": "img/icon.png",
+			"128": "img/icon.png"
+		},
+		"default_title": "Twitch Downloader",
+		"default_popup": "popup.html"
+	},
+	"icons": {
+		"16": "img/icon.png",
+		"32": "img/icon.png",
+		"48": "img/icon.png",
+		"128": "img/icon.png"
+	},
+	"permissions": ["activeTab"]
+}
