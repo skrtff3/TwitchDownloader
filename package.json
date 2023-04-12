@@ -1,8 +1,43 @@
 {
-  "name": "DownloadADDON",
+  "name": "TwitchDownloader",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/fxhxyz4/twitchdownloader.git",
-  "author": "fxhxyz4 <fxhxyz@proton.me>",
-  "license": "MIT"
+  "description": "Download twitch-vods",
+  "keywords": [
+    "webpack",
+    "twitch",
+    "twitch-download",
+    "twitch-vods"
+  ],
+  "type": "module",
+  "main": "main.js",
+  "author": {
+    "name": "fxhxyz4",
+    "email": "fxhxyz@proton.me",
+    "url": "https://fxhxyz.vercel.app/"
+  },
+  "homepage": "https://fxhxyz4.github.io/TwitchDownloader/",
+  "bugs": "https://github.com/fxhxyz4/TwitchDownloader/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fxhxyz4/TwitchDownloader.git"
+  },
+  "maintainers": [
+    {
+      "name": "fxhxyz4",
+      "email": "fxhxyz@proton.me"
+    }
+  ],
+  "license": "MIT",
+  "scripts": {
+    "webpack:watch": "webpack -c ./webpack.config.js -w",
+    "webpack:prod": "webpack -c ./webpack.config.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.77.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
 }
