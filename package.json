@@ -1,0 +1,8 @@
+{
+  "name": "DownloadADDON",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fxhxyz4/twitchdownloader.git",
+  "author": "fxhxyz4 <fxhxyz@proton.me>",
+  "license": "MIT"
+}
